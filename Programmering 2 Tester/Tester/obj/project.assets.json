@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andreas.larsson15\\Documents\\Programmering 2\\Prog\\Tester\\Tester.csproj",
+      "projectUniqueName": "C:\\Users\\andreas.larsson15\\Documents\\Programmering 2\\Programmering 2 Tester\\Tester\\Tester.csproj",
       "projectName": "Tester",
-      "projectPath": "C:\\Users\\andreas.larsson15\\Documents\\Programmering 2\\Prog\\Tester\\Tester.csproj",
+      "projectPath": "C:\\Users\\andreas.larsson15\\Documents\\Programmering 2\\Programmering 2 Tester\\Tester\\Tester.csproj",
       "packagesPath": "C:\\Users\\andreas.larsson15\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andreas.larsson15\\Documents\\Programmering 2\\Prog\\Tester\\obj\\",
+      "outputPath": "C:\\Users\\andreas.larsson15\\Documents\\Programmering 2\\Programmering 2 Tester\\Tester\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andreas.larsson15\\AppData\\Roaming\\NuGet\\NuGet.Config",
