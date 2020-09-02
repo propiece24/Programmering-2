@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andreas.larsson15\\Documents\\Programmering 2\\Hello world\\Hello world.csproj": {}
+    "C:\\Users\\andreas.larsson15\\Documents\\Programmering 2\\Tester\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andreas.larsson15\\Documents\\Programmering 2\\Hello world\\Hello world.csproj": {
+    "C:\\Users\\andreas.larsson15\\Documents\\Programmering 2\\Tester\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andreas.larsson15\\Documents\\Programmering 2\\Hello world\\Hello world.csproj",
-        "projectName": "Hello world",
-        "projectPath": "C:\\Users\\andreas.larsson15\\Documents\\Programmering 2\\Hello world\\Hello world.csproj",
+        "projectUniqueName": "C:\\Users\\andreas.larsson15\\Documents\\Programmering 2\\Tester\\Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "C:\\Users\\andreas.larsson15\\Documents\\Programmering 2\\Tester\\Tests.csproj",
         "packagesPath": "C:\\Users\\andreas.larsson15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andreas.larsson15\\Documents\\Programmering 2\\Hello world\\obj\\",
+        "outputPath": "C:\\Users\\andreas.larsson15\\Documents\\Programmering 2\\Tester\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andreas.larsson15\\AppData\\Roaming\\NuGet\\NuGet.Config",
