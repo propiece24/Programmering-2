@@ -6,6 +6,14 @@ namespace prog2
     {
         static void Main(string[] args)
         {
+
+          int[] arr = {33, 44, 55, 66};
+
+
+          Audience a1 = new Audience();
+
+          a1.excitement = 30;
+
           FootBall theBall = new FootBall(); 
           FootBall theOtherBall = new FootBall();
 
